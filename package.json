@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "@bpmn-io/form-js": "^1.9.0"
+  },
+  "name": "forms-library",
+  "version": "1.0.0",
+  "description": "[Proof Of Concept] Form library management system, on top of Form JS and Camunda",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "type": "module"
+}
